@@ -1,0 +1,3 @@
+I am an undergraduate student at Honor College, Beihang University, majoring in computer science. I work on the intersection of computer vision, graphics and HCI, aiming at empowering human through visual interaction with AI.
+
+I started my research as an intern researcher at Megvii(Face++) Research on computer vision. I spent a great time as exchange student at TUM and researching in Media Chair. I'm also exploring and exploiting adversarial examples supervised by Prof. Zhanxing Zhu at Peking University.
